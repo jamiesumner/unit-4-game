@@ -1,1 +1,1 @@
-# unit-4-game
+Crystal Collector is an interactive game that uses jQuery to dynamically update the HTML page.

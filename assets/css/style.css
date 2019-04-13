@@ -1,0 +1,22 @@
+body {
+    background-color: #fae7da;
+}
+
+.jumbotron {
+    font-size: 50px;
+}
+
+.jumbotron, #text {
+    background-color:#fadadd;
+    font-family: futura;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#random-number, #score, #wins, #losses, #score-title {
+    background-color:#fadadd;
+    font-family: futura;
+    font-size: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
